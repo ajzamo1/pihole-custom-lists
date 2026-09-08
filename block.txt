@@ -1,0 +1,7 @@
+# Lista custom propia — Pi-hole (BLOCK)
+# Formato Adblock (el mismo que usan las listas públicas StevenBlack/HaGeZi)
+# Una entrada por línea: ||dominio.tld^
+#
+# Agregar aquí los dominios que detectes colándose pese a las listas públicas.
+# Ejemplo (déjalo comentado hasta tener un dominio real que bloquear):
+# ||ejemplo-dominio-molesto.com^
