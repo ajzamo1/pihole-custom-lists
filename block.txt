@@ -7,3 +7,4 @@
 # ||ejemplo-dominio-molesto.com^
 ||trujillo.hoy.es^
 ||eltubazodigital.com^
+||digiprensa.com^
