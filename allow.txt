@@ -1,0 +1,7 @@
+# Lista custom propia — Pi-hole (ALLOW)
+# Formato Adblock: una entrada por línea, ||dominio.tld^
+#
+# Agregar aquí dominios que las blocklists públicas bloqueen por error
+# y que necesites permitir explícitamente (falsos positivos).
+# Ejemplo (déjalo comentado hasta tener un dominio real que permitir):
+# ||ejemplo-dominio-necesario.com^
