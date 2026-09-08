@@ -5,3 +5,4 @@
 # Agregar aquí los dominios que detectes colándose pese a las listas públicas.
 # Ejemplo (déjalo comentado hasta tener un dominio real que bloquear):
 # ||ejemplo-dominio-molesto.com^
+# ||trujillo.hoy.es^
